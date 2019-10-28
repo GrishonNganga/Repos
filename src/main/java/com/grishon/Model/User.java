@@ -71,34 +71,6 @@ public class User implements Parcelable {
         return avatarUrl;
     }
 
-    public void setAvatarUrl(String avatarUrl) {
-        this.avatarUrl = avatarUrl;
-    }
-
-    public String getGravatarId() {
-        return gravatarId;
-    }
-
-    public void setGravatarId(String gravatarId) {
-        this.gravatarId = gravatarId;
-    }
-
-    public String getUrl() {
-        return url;
-    }
-
-    public void setUrl(String url) {
-        this.url = url;
-    }
-
-    public String getHtmlUrl() {
-        return htmlUrl;
-    }
-
-    public void setHtmlUrl(String htmlUrl) {
-        this.htmlUrl = htmlUrl;
-    }
-
 
 
 
